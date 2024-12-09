@@ -14,6 +14,7 @@ Building on these experiences, my latest approach leverages voice biometrics and
 The workflow is as follows: a large language model interprets user voice commands, translates them into precise data payloads for low level transaction calls, constructs the transaction data, prompts the user for voice biometric authentication, and ultimately submits the build transaction to the blockchain. This streamlined approach not only reduces friction in user interactions but also enhances accessibility for a wider audience that doesn't require advanced knowledge. <br />
 
 With this essay, I have detailed my understanding of Account Abstraction (ERC4337), shared my journey with it, and outlined innovative ideas to improve user onboarding and adoption. I am eager to join your team, collaborate with industry leading professionals, and contribute to making blockchain technology more accessible to everyone. <br />
+
 Thank you for considering my application. I look forward to the opportunity to learn, grow, and bring my passion for blockchain to the AA team. <br />
 Warm regards, <br />
 Carlos Arroyo <br />
