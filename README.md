@@ -1,4 +1,6 @@
 # Technical Explainer - Software Engineering Intern for Account Abstraction
+
+<div align="justify"> 
 Dear AA team: <br />
 My name is Carlos Arroyo, and I am excited to apply for the Software Engineering Intern position, focusing on Account Abstraction. I graduated as a software engineer 5 months ago and have been developing smart contracts for over 4 years. Through my participation in hackathons across the globe, I have improved my skills and evolved into a full stack dApp developer with a strong focus on two key areas within the blockchain industry: cross chain technology and account abstraction. <br />
 In this essay, I aim to share my experiences, elaborate on the importance of account abstraction for the ecosystem, and present my ideas to enhance its adoption.
@@ -18,4 +20,4 @@ With this essay, I have detailed my understanding of Account Abstraction (ERC433
 Thank you for considering my application. I look forward to the opportunity to learn, grow, and bring my passion for blockchain to the AA team. <br />
 Warm regards, <br />
 Carlos Arroyo <br />
-
+</div>
