@@ -3,7 +3,7 @@
 <div align="justify"> 
 Dear AA team: <br />
 My name is Carlos Arroyo, and I am excited to apply for the Software Engineering Intern position, focusing on Account Abstraction. I graduated as a software engineer 5 months ago and have been developing smart contracts for over 4 years. Through my participation in hackathons across the globe, I have improved my skills and evolved into a full stack dApp developer with a strong focus on two key areas within the blockchain industry: cross chain technology and account abstraction. <br />
-In this essay, I aim to share my experiences, elaborate on the importance of account abstraction for the ecosystem, and present my ideas to enhance its adoption.
+In this essay, I aim to share my experiences, elaborate on the importance of account abstraction for the ecosystem, and present my ideas to enhance its adoption. <br />
 
 Account Abstraction (AA) addresses one of the most pressing challenges in blockchain; enhancing user experience (UX). By eliminating friction in key management, gas understanding and transaction signing, AA sets the way for a more user friendly and inclusive ecosystem. <br />
 A critical advantage of AA is its open implementation (currently), allowing diverse methods for user authentication. Examples include passkeys, Trusted Execution Environments (TEE), and biometrics. The introduction of ERC4337, the main AA standard, achieved this without altering Ethereum's protocol level. This was a significant challenge, requiring innovative solutions such as the bundler that is a special kind of node and a dedicated mempool architecture to manage UserOps transactions, which differ from standard transactions of the EOAs that have 3 simple fields: to, value and data. <br />
